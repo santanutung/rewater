@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="44" height="38" viewBox="0 0 44 38">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        font-size: 150px;
+      }
+
+      .cls-2 {
+        fill: #f4f6fb;
+        font-family: "Exo2-SemiBold";
+        font-weight: bold;
+      }
+    </style>
+  </defs>
+  <text x="-8" y="109" class="cls-1"><tspan class="cls-2">“</tspan></text>
+</svg>
